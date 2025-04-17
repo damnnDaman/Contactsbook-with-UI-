@@ -15,7 +15,7 @@
 -->
 
 
-# vCard Management Application
+# Contact Book
 
 This project is a vCard management tool that parses and manages vCard files (`.vcf`). It includes a C library for vCard parsing and validation, and a text-based Python user interface. The Python UI (built with Asciimatics) uses the C library via `ctypes` to handle vCard data. Optionally, the application can integrate with a MySQL database to store and query contact metadata.
 
